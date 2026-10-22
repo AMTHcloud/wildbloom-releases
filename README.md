@@ -1,8 +1,8 @@
 # Wildbloom releases
 
-Installers for [Wildbloom](https://gumroad.com), a smart sampler plugin by Andrzej Jesztar.
+Installers for [Wildbloom](https://jesztar.gumroad.com/l/wildbloom), a smart sampler plugin by Andrzej Jesztar.
 
-Wildbloom checks this page for updates. Buy and download it from Gumroad; each release here also lists
+Wildbloom checks this page for updates. Buy it on [Gumroad](https://jesztar.gumroad.com/l/wildbloom); each release here also lists
 the installers:
 
 - **Windows**: `Wildbloom-X.Y.Z-Setup.exe` (or the `.zip` with a README)
